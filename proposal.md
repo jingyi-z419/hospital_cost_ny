@@ -1,4 +1,4 @@
 Project Proposal
 ================
 
-Team member
+Project title: Team member: Kexin Sun
