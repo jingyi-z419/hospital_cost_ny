@@ -4,5 +4,5 @@ output: github_document
 ---
 
 Project title:
-Team member: Kexin Sun
+
 
