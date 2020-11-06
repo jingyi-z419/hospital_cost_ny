@@ -3,6 +3,6 @@ title: "Project Proposal"
 output: github_document
 ---
 
-Project:
+Project title:
 Team member: 
 Due date:
